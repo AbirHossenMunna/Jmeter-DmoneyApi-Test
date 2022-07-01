@@ -1,3 +1,13 @@
+Steps
+
+Create user
+
+Search User
+
+Update Phone_Number by id
+
+Delete user
+
 API Test Strategy
 
 Result Tree
